@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23621FE4&lines=I+want+to+be+immortal+through+my+code+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+# Hi, I'm Zerhogie 👋
+
+Everybody can feel advancing tecnology, my goal is to be able for say that I created a part of this. 
 
 <!--
 **zerhogie/zerhogie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
