@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23621FE4&lines=I+want+to+be+immortal+through+my+code+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23621FE4&size=22&width=600&height=30&lines=I+want+to+be+immortal+through+my+code+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 # Hi, I'm Zerhogie 👋
 
