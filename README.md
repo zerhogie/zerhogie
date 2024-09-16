@@ -2,7 +2,7 @@
 
 # Hi, I'm Zerhogie 👋
 
-Everybody can feel advancing tecnology, my goal is to be able for say that I created a part of this. 
+Everybody can feel the advancement of technology. My goal is to be able to say that I contributed to this progress.
 
 <!--
 **zerhogie/zerhogie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
